@@ -17,7 +17,7 @@ import android.widget.TextView;
 
 /**
  *  adpater
- * @author Administrator
+ * @author liyu
  *
  */
 public class AnytimeUserResponseListAdapter implements ListAdapter {
