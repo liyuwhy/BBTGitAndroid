@@ -14,6 +14,12 @@ import android.view.ViewGroup;
 import android.widget.ListAdapter;
 import android.widget.TextView;
 
+
+/**
+ *  adpater
+ * @author Administrator
+ *
+ */
 public class AnytimeUserResponseListAdapter implements ListAdapter {
 
 	private List<AVObject> mResponseList;
